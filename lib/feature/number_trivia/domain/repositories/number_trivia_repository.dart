@@ -1,4 +1,4 @@
-import 'package:clean_archtecture/core/error/failures.dart';
+import '../../../../core/error/failures.dart';
 import 'package:dartz/dartz.dart';
 import '../entities/number_trivia.dart';
 
